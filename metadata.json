@@ -1,0 +1,7 @@
+{
+  "name": "Apna Assistant",
+  "description": "Your personal AI assistant that listens to your voice commands and responds in real-time, creating a natural conversational experience. Powered by the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
